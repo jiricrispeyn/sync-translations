@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import { StyledHeader, Title } from "./style";
+import React, { Component } from 'react';
+import { StyledHeader, Title } from './style';
 
 class Header extends Component {
   render() {

@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import "./App.css";
-import Header from "./components/header";
-import MyEditor from "./components/my-editor";
+import React, { Component } from 'react';
+import './App.css';
+import Header from './components/header';
+import MyEditor from './components/my-editor';
 
 class App extends Component {
   render() {
